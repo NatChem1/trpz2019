@@ -1,0 +1,53 @@
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\WpfPrototype1.Screens.dll
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\WpfPrototype1.Screens.pdb
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 1.baml
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 2_1.baml
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 3_1.baml
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 4_1.baml
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 5_1.baml
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\SketchStyles.baml
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Window1.baml
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Window2.baml
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 1.g.cs
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 2_1.g.cs
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 3_1.g.cs
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 4_1.g.cs
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 5_1.g.cs
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Window1.g.cs
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Window2.g.cs
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1.Screens_MarkupCompile.cache
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1.Screens.g.resources
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1.Screens.dll
+C:\Users\Zimbo\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1.Screens.pdb
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\WpfPrototype1.Screens.dll
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\WpfPrototype1.Screens.pdb
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Properties\city.baml
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 1.baml
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 2_1.baml
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 4_1.baml
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 5_1.baml
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 6.baml
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 6_1.baml
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\SketchStyles.baml
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Window1.baml
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Window2.baml
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Window3.baml
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Properties\city.g.cs
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 1.g.cs
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 2_1.g.cs
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 3_1.g.cs
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 4_1.g.cs
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 5_1.g.cs
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 6.g.cs
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 6_1.g.cs
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Window1.g.cs
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Window2.g.cs
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Window3.g.cs
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1.Screens_MarkupCompile.cache
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1.Screens_MarkupCompile.lref
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen 3_1.baml
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1.Screens.g.resources
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1.Screens.dll
+C:\Users\NATALIA\Documents\Expression\Blend 3\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1.Screens.pdb

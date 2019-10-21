@@ -1,0 +1,50 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" xmlns:pb="clr-namespace:Microsoft.Expression.Prototyping.Behavior;assembly=Microsoft.Expression.Prototyping.Interactivity" x:Name="Screen_5_1_Name"
+	x:Class="WpfPrototype1Screens.Screen_5_1"
+	Width="640" Height="358">
+
+	<Grid x:Name="LayoutRoot" Background="White">
+		<TextBlock HorizontalAlignment="Left" Margin="26.32,26.2,0,0" VerticalAlignment="Top" Width="107.2" Height="19.2" TextWrapping="Wrap"><Run Text="Оберіть "/><Run Text="мешканця"/><Run Text=":"/></TextBlock>
+		<ComboBox HorizontalAlignment="Left" Margin="26.32,54.2,0,0" VerticalAlignment="Top" Width="118.4" Height="20.533" d:LayoutOverrides="VerticalAlignment"/>
+		<TextBlock Margin="207.52,26.2,273,0" VerticalAlignment="Top" Height="20" TextWrapping="Wrap"><Run Text="Інофомарція про "/><Run Text="мешканця"/><Run Text=":"/></TextBlock>
+		<TextBlock Margin="205.92,54.2,0,0" VerticalAlignment="Top" Height="20.533" TextWrapping="Wrap" HorizontalAlignment="Left" Width="91.48" Text="ПІБ:"/>
+		<TextBlock Margin="205.92,81.438,309,0" VerticalAlignment="Top" Height="29.334" TextWrapping="Wrap" d:LayoutOverrides="VerticalAlignment"><Run Text="Вік"/><Run Text=":"/></TextBlock>
+		<TextBlock Margin="205.912,109.561,303.402,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="24.184" RenderTransformOrigin="0.5,0.5" d:LayoutOverrides="VerticalAlignment"><TextBlock.RenderTransform>
+				<TransformGroup>
+					<ScaleTransform ScaleX="0.99999614144416948" ScaleY="1.0000038585707192"/>
+					<SkewTransform AngleY="0.2923710111181208"/>
+					<RotateTransform Angle="0.13418193932234662"/>
+					<TranslateTransform X="-0.025"/>
+				</TransformGroup>
+			</TextBlock.RenderTransform><Run Text="Стать"/><Run Text=":"/></TextBlock>
+		<TextBox Margin="0,54.2,73.6,0" VerticalAlignment="Top" Height="22" TextWrapping="Wrap" HorizontalAlignment="Right" Width="231.4"/>
+		<TextBox Margin="0,81.438,73.6,0" TextWrapping="Wrap" HorizontalAlignment="Right" Width="231.4" VerticalAlignment="Top" Height="22"/>
+		<TextBox Margin="0,109.4,73.6,0" TextWrapping="Wrap" HorizontalAlignment="Right" Width="231.4" VerticalAlignment="Top" Height="22"/>
+		<Button HorizontalAlignment="Left" Margin="41.12,0,0,8" Width="103.6" Content="Повернутися" VerticalAlignment="Bottom" Height="34.4">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="Click">
+					<pb:NavigateToScreenAction TargetScreen="WpfPrototype1Screens.Screen_4_1"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Button>
+		<TextBlock Margin="205.92,137.4,0,0" TextWrapping="Wrap" HorizontalAlignment="Left" Width="102.68" VerticalAlignment="Top" Height="20.533"><Run Text="Номер телефону"/><Run Text=":"/></TextBlock>
+		<TextBlock Margin="205.92,164.638,309,0" VerticalAlignment="Top" Height="29.334" TextWrapping="Wrap"><Run Text="Одружений"/><Run Text=":"/></TextBlock>
+		<TextBlock Margin="205.912,192.761,303.402,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="24.184" RenderTransformOrigin="0.5,0.5"><TextBlock.RenderTransform>
+				<TransformGroup>
+					<ScaleTransform ScaleX="0.99999614144416948" ScaleY="1.0000038585707192"/>
+					<SkewTransform AngleY="0.2923710111181208"/>
+					<RotateTransform Angle="0.13418193932234662"/>
+					<TranslateTransform X="-0.025"/>
+				</TransformGroup>
+			</TextBlock.RenderTransform><Run Text="Площа"/><Run Text=":"/></TextBlock>
+		<TextBox Margin="0,137.4,73.6,0" TextWrapping="Wrap" HorizontalAlignment="Right" Width="231.4" VerticalAlignment="Top" Height="22"/>
+		<TextBox Margin="0,164.638,73.6,171.362" TextWrapping="Wrap" HorizontalAlignment="Right" Width="231.4"/>
+		<TextBox Margin="0,0,73.6,143.4" TextWrapping="Wrap" HorizontalAlignment="Right" Width="231.4" VerticalAlignment="Bottom" Height="22"/>
+		<Image Margin="207.52,0,273,8" VerticalAlignment="Bottom" Height="112.8"/>
+	</Grid>
+</UserControl>

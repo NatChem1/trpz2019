@@ -1,0 +1,34 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" xmlns:pb="clr-namespace:Microsoft.Expression.Prototyping.Behavior;assembly=Microsoft.Expression.Prototyping.Interactivity" x:Name="Screen_2_1_Name"
+	x:Class="WpfPrototype1Screens.Screen_2_1"
+	Width="571.6" Height="157.2">
+
+	<Grid x:Name="LayoutRoot" Background="White">
+		<TextBlock HorizontalAlignment="Left" Margin="26.32,26.2,0,0" VerticalAlignment="Top" Width="92" Height="19.2" TextWrapping="Wrap"><Run Text="Оберіть "/><Run Text="вулицю"/></TextBlock>
+		<ComboBox HorizontalAlignment="Left" Margin="26.32,54.2,0,0" VerticalAlignment="Top" Width="118.4" Height="20.533" d:LayoutOverrides="VerticalAlignment"/>
+		<TextBlock Margin="207.52,26.2,213.4,0" VerticalAlignment="Top" Height="20" TextWrapping="Wrap"><Run Text="Інофомарція про "/><Run Text="вулицю"/><Run Text=":"/></TextBlock>
+		<TextBlock Margin="205.92,54.2,0,0" VerticalAlignment="Top" Height="20.533" TextWrapping="Wrap" HorizontalAlignment="Left" Width="67.48"><Run Text="Назва"/><Run Text=":"/></TextBlock>
+		<TextBlock Margin="205.92,81.438,278.2,0" VerticalAlignment="Top" Height="29.334" TextWrapping="Wrap" Text="Довжина:"/>
+		<TextBox Margin="0,54.2,21.464,0" VerticalAlignment="Top" Height="22" TextWrapping="Wrap" HorizontalAlignment="Right" Width="251.136"/>
+		<TextBox Margin="0,0,21.464,53.762" VerticalAlignment="Bottom" Height="22" TextWrapping="Wrap" HorizontalAlignment="Right" Width="251.136"/>
+		<Button HorizontalAlignment="Right" Margin="0,0,21.464,7.2" VerticalAlignment="Bottom" Width="103.6" Height="34.4" Content="Обрати">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="Click">
+					<pb:NavigateToScreenAction TargetScreen="WpfPrototype1Screens.Screen_3_1"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Button>
+		<Button HorizontalAlignment="Left" Margin="26.32,0,0,7.2" VerticalAlignment="Bottom" Width="103.6" Height="34.4" Content="Повернутися">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="Click">
+					<pb:NavigateToScreenAction TargetScreen="WpfPrototype1Screens.Screen_6"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Button>
+	</Grid>
+</UserControl>

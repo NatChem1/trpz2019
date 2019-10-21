@@ -1,0 +1,45 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" xmlns:pb="clr-namespace:Microsoft.Expression.Prototyping.Behavior;assembly=Microsoft.Expression.Prototyping.Interactivity" x:Name="Screen_1_Name"
+	x:Class="WpfPrototype1Screens.Screen_1"
+	Width="565.6" Height="258.8">
+
+	<Grid x:Name="LayoutRoot" Background="White">
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="0.009*"/>
+			<ColumnDefinition Width="0.991*"/>
+		</Grid.ColumnDefinitions>
+		<TextBlock HorizontalAlignment="Left" Margin="21.23,26.2,0,0" VerticalAlignment="Top" Width="83.2" Height="19.2" Text="Оберіть країну" TextWrapping="Wrap" Grid.Column="1"/>
+		<ComboBox x:Name="countryBox" HorizontalAlignment="Left" Margin="21.23,55.667,0,0" VerticalAlignment="Top" Width="118.4" Height="20.533" Grid.Column="1" d:LayoutOverrides="VerticalAlignment" LayoutUpdated="countryBox_LayoutUpdated"/>
+		<TextBlock Margin="202.43,26.2,217.8,0" VerticalAlignment="Top" Height="20" Text="Інофомарція про країну:" TextWrapping="Wrap" Grid.Column="1"/>
+		<TextBlock Margin="200.83,54.2,0,0" VerticalAlignment="Top" Height="20.533" TextWrapping="Wrap" Grid.Column="1" HorizontalAlignment="Left" Width="67.48"><Run Text="Назва"/><Run Text=":"/></TextBlock>
+		<TextBlock Margin="200.83,81.438,0,0" VerticalAlignment="Top" Height="29.334" TextWrapping="Wrap" Grid.Column="1" HorizontalAlignment="Left" Width="68.28" d:LayoutOverrides="VerticalAlignment"><Run Text="Столиця"/><Run Text=":"/></TextBlock>
+		<TextBlock Margin="202.43,109.724,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="27.377" Grid.Column="1" HorizontalAlignment="Left" Width="66.68"><Run Text="Мова"/><Run Text=":"/></TextBlock>
+		<TextBlock Margin="200.823,138.111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="24.184" RenderTransformOrigin="0.5,0.5" Grid.Column="1" HorizontalAlignment="Left" Width="63.48">
+			<TextBlock.RenderTransform>
+				<TransformGroup>
+					<ScaleTransform ScaleX="0.99999614144416948" ScaleY="1.0000038585707192"/>
+					<SkewTransform AngleY="0.2923710111181208"/>
+					<RotateTransform Angle="0.13418193932234662"/>
+					<TranslateTransform X="-0.025"/>
+				</TransformGroup>
+			</TextBlock.RenderTransform><Run Text="Площа"/><Run Text=":"/></TextBlock>
+		<TextBlock Margin="203.23,167.2,0,64.089" TextWrapping="Wrap" RenderTransformOrigin="0.598,-0.727" Grid.Column="1" HorizontalAlignment="Left" Width="69.88"><Run Text="Населення"/><Run Text=":"/></TextBlock>
+		<TextBox x:Name="name" Margin="274.71,54.2,34.664,0" VerticalAlignment="Top" Height="22" Grid.Column="1" TextWrapping="Wrap" IsEnabled="False"/>
+		<TextBox x:Name="capital" Margin="274.71,81.438,34.664,0" VerticalAlignment="Top" Height="22" Grid.Column="1" TextWrapping="Wrap" IsEnabled="False"/>
+		<TextBox x:Name="language" Margin="274.71,109.724,34.664,127.076" Grid.Column="1" TextWrapping="Wrap" IsEnabled="False"/>
+		<TextBox x:Name="area" Margin="274.71,0,34.664,99.838" VerticalAlignment="Bottom" Height="22" Grid.Column="1" TextWrapping="Wrap" IsEnabled="False"/>
+		<TextBox x:Name="population" Margin="274.71,0,34.664,66.6" Grid.Column="1" TextWrapping="Wrap" VerticalAlignment="Bottom" Height="28" IsEnabled="False"/>
+		<Button HorizontalAlignment="Right" Margin="0,0,34.664,16.4" Width="103.6" Content="Обрати" Grid.Column="1" VerticalAlignment="Bottom" Height="34.4">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="Click">
+					<pb:NavigateToScreenAction TargetScreen="WpfPrototype1Screens.Screen_6"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Button>
+	</Grid>
+</UserControl>
